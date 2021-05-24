@@ -1,6 +1,6 @@
 # Teste Técnico Desenvolvedor(a) Frontend Júnior [REMOTO]
 
-Neste repositório você encontra o enunciado do teste técnico para a vaga de Desenvolvedor(a) Frontend Júnior [REMOTO] da BLABLABLA!
+Neste repositório você encontra o enunciado do teste técnico para a vaga de Desenvolvedor(a) Frontend Júnior [REMOTO] da empresa de TI com o nome BLABLABLA!
 
 ## Problema
 
